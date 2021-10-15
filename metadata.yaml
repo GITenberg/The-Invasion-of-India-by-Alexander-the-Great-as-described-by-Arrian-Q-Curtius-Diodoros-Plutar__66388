@@ -1,0 +1,47 @@
+_repo: The-Invasion-of-India-by-Alexander-the-Great-as-described-by-Arrian-Q-Curtius-Diodoros-Plutar__66388
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCrindle, John Watson
+    aliases:
+    - M'Crindle, John Watson
+    - M'Crindle, J. W.
+    - McCrindle, J. W.
+    birthdate: 1825
+    deathdate: 1913
+    gutenberg_agent_id: '48170'
+    url: http://www.gutenberg.org/2009/agents/48170
+    wikipedia: https://en.wikipedia.org/wiki/J._W._McCrindle
+description: ''
+gutenberg_issued: '2021-09-27'
+identifiers:
+  gutenberg: '66388'
+  lccn: '01003411'
+language: en
+pgterms:marc904: https://archive.org/details/b29351777
+pgterms:marc905: 20180412184424mcrindle
+pgterms:marc906: '1896'
+pgterms:marc907: EN
+production_note: Clarity and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: EN :Archibald Constable and Company,1896.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- To 324 B.C. -- Sources'
+- !lcsh 'Alexander, the Great, 356 B.C.-323 B.C.'
+- !lcc 'DF'
+- GITenberg
+tableOfContents: 'Introduction, containing a life of Alexander -- Arrian''s Anabasis:
+  fourth book, chapters XXII-XXX; fifth and sixth books -- History of Alexander the
+  Great, by Q. Curtius Rufus: eighth book, chapters IX-XIV; ninth book -- Bibliotheca
+  historica of Diodôros Siculus: seventeenth book, chapters LXXXIV-CVII -- Plutarch''s
+  Life of Alexander: chapters LVIII-LXVII -- Historiae Philippicae of Justinus: twelfth
+  book, chapters VII-X; fifteenth book, chapter IV -- Appendices.'
+title: 'The Invasion of India by Alexander the Great as described by Arrian, Q. Curtius,
+  Diodoros, Plutarch and Justin: Being Translations of such portions of the Works
+  of these and other Classical Authors as describe Alexander''s Campaigns in Afghanistan,
+  the Panjâb, Sindh, Gedrosia and Karmania'
+url: http://www.gutenberg.org/ebooks/66388
