@@ -1,5 +1,8 @@
 _repo: The-Invasion-of-India-by-Alexander-the-Great-as-described-by-Arrian-Q-Curtius-Diodoros-Plutar__66388
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66388-h/images/cover.jpg
 creator:
   author:
     agent_name: McCrindle, John Watson
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48170
     wikipedia: https://en.wikipedia.org/wiki/J._W._McCrindle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66388#The-Invasion-of-India-by-Alexander-the-Great-as-described-by-Arrian-Q-Curtius-Diodoros-Plutar_
 gutenberg_issued: '2021-09-27'
 identifiers:
   gutenberg: '66388'
